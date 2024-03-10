@@ -1,0 +1,26 @@
+{
+  "name": "short-story-reader-backend",
+  "version": "1.0.0",
+  "description": "this is express js backend for short story reader app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavinduDilshan/short-story-reader-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RavinduDilshan/short-story-reader-backend/issues"
+  },
+  "homepage": "https://github.com/RavinduDilshan/short-story-reader-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0"
+  }
+}
